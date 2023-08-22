@@ -1,4 +1,4 @@
 .show-Items{
-  display: flex;
+  display: grid;
   align-items: center;
 }
